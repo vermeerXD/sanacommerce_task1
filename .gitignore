@@ -1,11 +1,4 @@
-**/bin/**
 **/obj/**
+**/bin/**
 **/.vs/**
 **/.idea/**
-
-/temporary.txt
-
-/bin/.DS_Store
-/bin/test1.txt
-/obj/.DS_Store
-/obj/test2.txt
