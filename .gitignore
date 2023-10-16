@@ -1,7 +1,9 @@
 **/obj/**
+**/obj/test2.txt/**
 **/bin/**
+**/bin/test1.txt/**
 **/.vs/**
 **/.idea/**
 
-temporary.txt
-.DS_Store
+**temporary.txt**
+**.DS_Store**
